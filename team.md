@@ -1,5 +1,5 @@
 #Informacje o członku zespołu
-Imię:
-Nazwisko:
-Ulubiona technologia:
+Imię: Tomasz
+Nazwisko: Jarosz
+Ulubiona technologia: AI
 
